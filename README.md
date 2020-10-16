@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" class=".bg-gray-dark">
    <img src="./.github/logo.png" alt="Happy" width="280"/>
 </p>
 
