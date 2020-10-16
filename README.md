@@ -1,6 +1,8 @@
-<p align="center" class=".bg-gray-dark">
-   <img src="./.github/logo.png" alt="Happy" width="280"/>
-</p>
+<div class="bg-gray-dark">
+  <p align="center">
+    <img src="./.github/logo.png" alt="Happy" width="280"/>
+  </p>
+</div>
 
 <p align="center">	
    <a href="https://www.linkedin.com/in/carloseac/">
